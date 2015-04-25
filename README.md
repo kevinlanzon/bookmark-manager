@@ -1,7 +1,13 @@
 Bookmark Manager
 ================
 
-Makers Academy week 5 project paired with [Tom](https://github.com/tomcoakes). Develop a Bookmark Manager where users can create bookmarks and favourite bookmarks storing the data in a relational database.
+Makers Academy week 4 project paired with [Tom](https://github.com/tomcoakes). Develop a Bookmark Manager where users can create bookmarks and favourite bookmarks storing the data in a relational database.
+
+The goal is to expose you to the following aspects of web development:
+
+- Relational databases
+- Security considerations
+- More Acceptance testing with Capybara
 
 ### Technologies Used
 * Sinatra
