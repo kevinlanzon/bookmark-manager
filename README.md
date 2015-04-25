@@ -17,5 +17,5 @@ Makers Academy week 5 project paired with [Tom](https://github.com/tomcoakes). D
 
 ### Instructions
 
-To run the application - git clone git@github.com:kevinlanzon/bookmark-manager-2.git then run `rackup` and visit
+To run the application - git clone git@github.com:kevinlanzon/bookmark-manager.git then run `rackup` and visit
 `localhost:9292` in the browser.
